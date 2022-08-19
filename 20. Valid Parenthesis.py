@@ -1,6 +1,4 @@
 # My solution
-from turtle import st
-
 
 def valid_parenthesis(string):
     valid_char = ['(', ')', '{', '}', '[', ']']
